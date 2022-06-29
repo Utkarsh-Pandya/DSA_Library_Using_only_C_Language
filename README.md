@@ -22,6 +22,8 @@ This Library includes:
 
 -> Linked List
 
+-> Graph
+
 -> And Various utility functions such as merge, number_of_digits_in_an_integer etc.
 
 
