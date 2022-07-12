@@ -16,6 +16,8 @@ This Library includes:
 
 -> 20 Sorting Algorithms
 
+-> Dynamic Array
+
 -> Stack
 
 -> Queue
